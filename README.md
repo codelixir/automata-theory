@@ -2,7 +2,7 @@
 
 There are a total of four problems, each of them are stated and the solutions explained in the next section.
 
-The solution for problem 1 that is discussed here discusses the Shunting-yard algorithm to convert infix expression to postfix expression. You can read more about it [here](https://en.wikipedia.org/wiki/Shunting-yard_algorithm).
+The solution for [Problem 1](https://github.com/codelixir/automata-theory#problem-1-converting-a-regular-expression-to-an-nfa) that is discussed here discusses the Shunting-yard algorithm to convert infix expression to postfix expression. You can read more about it [here](https://en.wikipedia.org/wiki/Shunting-yard_algorithm).
 
 Sample inputs/outputs for each code are given in the [Formats](https://github.com/codelixir/automata-theory/tree/main/Formats) directory.
 
