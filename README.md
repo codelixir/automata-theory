@@ -1,6 +1,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
-Sample inputs/outputs for each code are given in the `Formats/` directory.
+There are a total of four problems, each of them are stated and the solutions explained in the next section.
+
+The solution for problem 1 that is discussed here discusses the Shunting-yard algorithm to convert infix expression to postfix expression. You can read more about it [here](https://en.wikipedia.org/wiki/Shunting-yard_algorithm).
+
+Sample inputs/outputs for each code are given in the [Formats](https://github.com/codelixir/automata-theory/tree/main/Formats) directory.
 
 These programs were written as a part of the Automata Theory course, Spring 2021.
 
