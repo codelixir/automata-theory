@@ -26,7 +26,7 @@ output.json by required path of the output file. <br>
 
 ### Step 1: Converting Regex from Infix representation to Postfix representation
 - Add `.` to represent the concatenate operator.
-- Convert expression to postfix using the Shuntinng-yard Algorithm
+- Convert expression to postfix using the Shunting-yard Algorithm
   
 ### Step 2: Converting the Postfix form of Regex to an NFA
 
